@@ -1,0 +1,21 @@
+Huache Website v4 Platform Media
+Build verification date: 2026-07-14
+
+Verified commands:
+- npm install
+- npm run typecheck
+- npm run build
+
+Result:
+- TypeScript passed
+- Next.js 16.0.11 production build passed
+- 12/12 static pages generated
+- / returned HTTP 200
+- /products returned HTTP 200
+- /media/electrified-powertrain-demo.gif returned HTTP 200 (image/gif)
+
+Media integration:
+- Existing homepage PowerFlow component remains unchanged.
+- Optional platform media is configured in lib/content.ts.
+- The demonstration GIF appears in the homepage platform card and Product Center platform card.
+- Replace public/media/electrified-powertrain-demo.gif with the Blender export to use the real asset.
