@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"HsGl-xS_WFmccwFddypHM","rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"page-intro","children":[["$","p",null,{"className":"eyebrow","children":"START A PROJECT"}],["$","h1",null,{"children":"Tell us what the equipment must do."}],["$","p",null,{"children":"Share the mission, power range, voltage, mobility format, operating environment and expected development stage."}]]}],["$","section",null,{"className":"contact-card","children":[["$","div",null,{"children":[["$","p",null,{"className":"eyebrow","children":"ENGINEERING ENQUIRIES"}],["$","h2",null,{"children":"Can you build my system?"}]]}],["$","a",null,{"className":"button primary","href":"mailto:engineering@example.com","children":"Email the engineering team"}]]}]],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null

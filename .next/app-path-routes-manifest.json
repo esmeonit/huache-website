@@ -1,0 +1,11 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/applications/page": "/applications",
+  "/contact/page": "/contact",
+  "/page": "/",
+  "/platforms/page": "/platforms",
+  "/products/page": "/products",
+  "/solutions/page": "/solutions",
+  "/technologies/page": "/technologies"
+}
