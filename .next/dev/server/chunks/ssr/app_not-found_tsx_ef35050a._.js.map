@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/pzou5/Documents/github/huache-website/app/not-found.tsx"],"sourcesContent":["import Link from \"next/link\";\n\nexport default function NotFound() {\n  return <main className=\"not-found container\"><p className=\"eyebrow\">404</p><h1>页面不存在。</h1><p>该页面可能已移动，或尚未建立。</p><Link className=\"primary-button\" href=\"/\">返回首页</Link></main>;\n}\n"],"names":[],"mappings":";;;;;AAAA;;;AAEe,SAAS;IACtB,qBAAO,8OAAC;QAAK,WAAU;;0BAAsB,8OAAC;gBAAE,WAAU;0BAAU;;;;;;0BAAO,8OAAC;0BAAG;;;;;;0BAAW,8OAAC;0BAAE;;;;;;0BAAmB,8OAAC,0LAAI;gBAAC,WAAU;gBAAiB,MAAK;0BAAI;;;;;;;;;;;;AAC5J"}}]
+}
